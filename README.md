@@ -62,6 +62,15 @@ Send these from your own account (they're deleted automatically after being proc
 
 This project uses the Telegram **user** API (MTProto) rather than the Bot API, which means it operates as your personal account. Use it only on accounts you own, and make sure your usage complies with [Telegram's Terms of Service](https://telegram.org/tos) and applicable law in your jurisdiction.
 
+## Support / Donate
+
+If this project saved you time, you can support it via the TON network:
+
+| Currency | Address |
+|---|---|
+| TON | `UQA8Q9aLM7kRpLWHkVitmsM7x8k7SbxoWIn_8ZDB-CEMRgBt` |
+| USDT (TON network) | `UQA8Q9aLM7kRpLWHkVitmsM7x8k7SbxoWIn_8ZDB-CEMRgBt` |
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
@@ -127,6 +136,15 @@ MIT — see [LICENSE](LICENSE).
 ## سلب مسئولیت
 
 این پروژه از API «یوزر» تلگرام (MTProto) استفاده می‌کند، نه Bot API؛ یعنی با اکانت شخصی خودت اجرا می‌شود. فقط روی اکانتی که مالکش هستی استفاده کن و مطمئن شو استفاده‌ات با [قوانین تلگرام](https://telegram.org/tos) و قوانین کشورت هم‌خوانی دارد.
+
+## حمایت مالی / دونیت
+
+اگه این پروژه به کارت اومد و می‌خوای حمایتش کنی، از طریق شبکهٔ تون:
+
+| ارز | آدرس |
+|---|---|
+| تون (TON) | `UQA8Q9aLM7kRpLWHkVitmsM7x8k7SbxoWIn_8ZDB-CEMRgBt` |
+| تتر (USDT) — شبکه تون | `UQA8Q9aLM7kRpLWHkVitmsM7x8k7SbxoWIn_8ZDB-CEMRgBt` |
 
 ## لایسنس
 
