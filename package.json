@@ -1,0 +1,19 @@
+{
+  "name": "ghost-hunter",
+  "version": "24.8.1",
+  "private": true,
+  "description": "Telegram deleted/edited message & self-destructing media catcher, running on Cloudflare Workers + Durable Objects + D1.",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "telegram": "^2.22.2"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240815.0",
+    "typescript": "^5.5.4",
+    "wrangler": "^3.72.0"
+  }
+}
