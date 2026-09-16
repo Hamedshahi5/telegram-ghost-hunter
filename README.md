@@ -4,6 +4,8 @@ A self-hosted Telegram "userbot" that runs entirely on **Cloudflare Workers** (D
 
 **[فارسی ⬇️ Persian version below](#-گوست-هانتر-v2481)**
 
+> ⭐ If this project is useful to you, consider giving it a star — it helps others find it too.
+
 ---
 
 ## Features
@@ -129,3 +131,5 @@ MIT — see [LICENSE](LICENSE).
 ## لایسنس
 
 MIT — به فایل [LICENSE](LICENSE) نگاه کن.
+
+> ⭐ اگه این پروژه به کارت اومد، یه ستاره بهش بده — کمک می‌کنه بقیه هم راحت‌تر پیداش کنن.
